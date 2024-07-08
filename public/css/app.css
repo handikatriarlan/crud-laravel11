@@ -4,6 +4,10 @@ body {
     color: #34364a;
 }
 
+textarea {
+    resize: none;
+}
+
 .bg-primary {
     background-color: #6861ce !important;
 }
